@@ -1,0 +1,32 @@
+# Core Libraries
+numpy
+pandas
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+
+# Deep Learning
+tensorflow
+keras
+torch
+
+# NLP (Text Model - BERT)
+transformers
+
+# Audio Processing
+librosa
+soundfile
+
+# Speech-to-Text
+openai-whisper
+
+# Web App
+streamlit
+
+# Utility
+tqdm
+joblib
