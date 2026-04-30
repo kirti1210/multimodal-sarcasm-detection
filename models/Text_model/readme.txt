@@ -31,4 +31,11 @@ This sentiment is later compared with audio emotion to detect sarcasm or mismatc
 - Works with real-time user input  
 - High accuracy (~97.8%)  
 
----
+## 📦 Download Models
+
+Due to size limitations, models are hosted externally:
+
+- BERT Model: https://drive.google.com/drive/folders/1gso-cF00B-UsywfcUu4O3WhXTQ6bDVMC?usp=sharing
+
+
+
