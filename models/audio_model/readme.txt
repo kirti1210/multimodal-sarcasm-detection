@@ -35,5 +35,10 @@ These emotions are later mapped to sentiment and compared with text sentiment fo
 - Works with uploaded audio and live microphone input  
 - Robust emotion detection (~86.1% accuracy)  
 
----
+
+## 📦 Download Models
+
+Due to size limitations, models are hosted externally:
+
+- CNN Audio Model: https://drive.google.com/drive/folders/1XLFZdJu-qQKdp-qLvkAPQfR2tg5kfVfo?usp=sharing
 
